@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>Self-sufficient Chickens</name>
+    <author>NightKosh</author>
+    <packageId>NightKosh.SelfSufficientChickens</packageId>
+    <supportedVersions>
+        <li>1.4</li>
+    </supportedVersions>
+    <description>
+        This mod makes chickens self-sufficient, so you don't need to feed them anymore.
+    </description>
+</ModMetaData>
