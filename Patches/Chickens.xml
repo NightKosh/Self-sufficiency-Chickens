@@ -3,7 +3,7 @@
 	<Operation Class="PatchOperationSequence">
 		<operations>
 			<li Class="PatchOperationReplace">
-				<xpath>Defs/ThingDef[defName="Chicken"]/race/baseHungerRate</xpath>
+				<xpath>Defs/ThingDef[defName="Chicken" or defName="Duck"]/race/baseHungerRate</xpath>
 				<value>
 					<baseHungerRate>0</baseHungerRate>
 				</value>
