@@ -5,6 +5,7 @@
     <packageId>NightKosh.SelfSufficientChickens</packageId>
     <supportedVersions>
         <li>1.4</li>
+        <li>1.5</li>
     </supportedVersions>
     <description>
         This mod makes chickens and ducks self-sufficient, so you don't need to feed them anymore.
